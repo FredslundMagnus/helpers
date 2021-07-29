@@ -1,1 +1,1 @@
-# helpers
+A simple command-line application.

@@ -1,0 +1,22 @@
+name: helpers
+description: A simple collection of helpers.
+version: 1.0.0
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  printer:
+    git:
+      url: git://github.com/FredslundMagnus/printer.git
+  painter:
+    git:
+      url: git://github.com/FredslundMagnus/painter.git
+  extensions:
+    git:
+      url: git://github.com/FredslundMagnus/extensions.git
+
+dev_dependencies:
+  pedantic:
