@@ -11,13 +11,13 @@ dependencies:
     sdk: flutter
   printer:
     git:
-      url: git://github.com/FredslundMagnus/printer.git
+      url: https://github.com/FredslundMagnus/printer.git
   painter:
     git:
-      url: git://github.com/FredslundMagnus/painter.git
+      url: https://github.com/FredslundMagnus/painter.git
   extensions:
     git:
-      url: git://github.com/FredslundMagnus/extensions.git
+      url: https://github.com/FredslundMagnus/extensions.git
 
 dev_dependencies:
   pedantic:
